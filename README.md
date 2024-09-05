@@ -54,7 +54,7 @@ This project develops a hybrid text summarization model that handles both long a
 
 2. **Open and Run Jupyter Notebooks**:
    - Navigate to the `.ipy` files in your browser and open them.
-   - Update file paths in the notebooks to point to the uploaded datasets:
+   - Update file paths in the notebooks to point to the uploaded datasets.
    - Execute the cells to run the summarization models.
 
    
