@@ -1,1 +1,2 @@
 Dataset/amazon_food_review/database.sqlite filter=lfs diff=lfs merge=lfs -text
+Dataset/amazon_food_review/Reviews.csv filter=lfs diff=lfs merge=lfs -text
